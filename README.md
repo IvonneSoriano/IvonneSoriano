@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a frontend software engineer from El Salvador
-- 🔭 Working on multiple frontend project using Angular.
+- 🔭 Working on multiple frontend projects using Angular.
 - 🌱 Learning design patterns and Backend with nodeJs.
 <br>
 ## Connect with me
