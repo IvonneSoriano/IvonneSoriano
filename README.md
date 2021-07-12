@@ -12,7 +12,7 @@ I am a frontend software engineer from El Salvador
 <br>
 <br>
 ## Expertise
-<img align="left" alt="Angular" src="https://img.shields.io/?color=%2320232A&label=Angular&logo=Angular&style=for-the-badge" />
+<img align="left" alt="Angular" src="https://img.shields.io/color=%2320232A&label=Angular&logo=Angular&style=for-the-badge" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/endpoint?color=%2320232A&label=JavaScript&logo=JavaScript&style=for-the-badge" />
 <img align="left" alt="HTML" src="https://img.shields.io/endpoint?color=%2320232A&label=HTML&logo=HTML5&style=for-the-badge" />
 <img align="left" alt="CSS" src="https://img.shields.io/endpoint?color=%2320232A&label=CSS&logo=CSS3&style=for-the-badge" />
