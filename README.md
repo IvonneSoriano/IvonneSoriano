@@ -1,6 +1,7 @@
 ### Hello World 👋
 I'm a software engineer, and I work as a frontend developer.
 - 🔭 Working on multiple frontend projects using Angular.
+- ✨ Working in Wordpress Themes
 - 🌱 Learning design patterns and Backend with nodeJs.
 <br>
 ## Connect with me
